@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">hi 🙃, prixit singh here</h1>
 <h3 align="center">developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/f0e3595cc6bdcc42f9b4bee2440b4f9e/72a6573604b15aaa-c9/s540x810/c88ce7272f4bbe0b760c05ba0af90d45125fae13.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 - 🌱 I’m currently learning **javascript,cybersecurity**
 
 - 💬 Ask me about **web development**
