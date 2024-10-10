@@ -1,6 +1,5 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">hi 🙃, prixit singh here</h1>
-<h3 align="center">developer from India</h3>
+
+<h2 align="center">hi 🙃, prixit singh here</h2>
 <img align="right" alt="coding" width="400" src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif">
 - 🌱 I’m currently learning **javascript,cybersecurity**
 
